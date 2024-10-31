@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @OManela
-- 👀 I’m interested in Physics, mainly Non-Linear-Optics
 
 
 <!---
